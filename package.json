@@ -1,0 +1,26 @@
+{
+    "name": "dynamic-github-pages",
+    "version": "1.0.0",
+    "description": "A React utility to generate dynamic pages from JSON files in a GitHub repo.",
+    "main": "src/index.js",
+    "keywords": [
+        "react",
+        "dynamic-pages",
+        "github",
+        "json"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "react-router-dom": "^6.0.0"
+    },
+    "peerDependencies": {
+        "react": "^17.0.0 || ^18.0.0",
+        "react-dom": "^17.0.0 || ^18.0.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.26.4",
+        "@babel/core": "^7.26.7",
+        "@babel/preset-env": "^7.26.7"
+    }
+}
